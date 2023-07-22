@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Aris Magklaras Personal Page"
+title                    : "Aris Magklaras"
 title_separator          : "-"
 name                     : &name "Aris Magklaras"
 description              : &description "SW Engineer at ASML B.V., Netherlands and PhD Candidate ECE Department, Univeristy of Patras, Greece"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Aris Magklaras"
   avatar           : "profile.jpg"
-  bio              : ""
+  bio              : "SW Engineer at ASML B.V., Netherlands and PhD Candidate ECE Department, Univeristy of Patras, Greece"
   location         : 
   employer         :
   pubmed           : 
