@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aris Magklaras"
 title_separator          : "-"
 name                     : &name "Aris Magklaras"
-description              : &description "SW Engineer at ASML B.V., Netherlands \newline and PhD Candidate ECE Department, Univeristy of Patras, Greece"
+description              : &description "Lead SW Engineer at ASML B.V., Netherlands and PhD Candidate ECE Department, Univeristy of Patras, Greece"
 url                      : https://arismagk.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arismagk/academicpages.github.io"
@@ -83,7 +83,7 @@ author:
   name             : "Aris Magklaras"
   avatar           : "profile.jpg"
   bio              : "SW Engineer at ASML B.V., Netherlands and PhD Candidate ECE Department, Univeristy of Patras, Greece"
-  location         : 
+  location         : "Eindhoven, The Netherlands"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=teMQW-0AAAAJ&hl=en"
