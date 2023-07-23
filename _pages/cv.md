@@ -7,6 +7,7 @@ redirect_from:
   - /resume
 ---
 
+
 Work experience
 ======
 * 2023 - now : SW Lead Engineer (SW sub-Function Architect)
@@ -51,5 +52,7 @@ Usefull Links
 * [Google Scholar](https://scholar.google.com/citations?user=teMQW-0AAAAJ&hl=en)
 * [LinkedIn](https://www.linkedin.com/in/aris-magklaras-0b65b012b/)
 * [Github](https://github.com/arismagk?tab=repositories)
+
+[My Resume (updated in Jul. 2023)](https://github.com/arismagk/PublicData/blob/master/AM_CV.pdf)
 
 
