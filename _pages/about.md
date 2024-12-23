@@ -19,8 +19,9 @@ Work Experience
 
 Education
 -------
-* Ph.D., University of Patras, Greece   &emsp; &nbsp; *2019 - Now* 
+* Ph.D., University of Patras, Greece   &emsp; &nbsp; *2019 - Now* (ongoing)
 * B.E. and Ms. in Electrical & Computer Engineering, University of Patras,Greece    &nbsp; *2012 - 2018*
+* Ms. in Global Challenges and Analysis Systems, Hellenic Open University, Greece &nbsp; *2024 - now* (ongoing)
 
 
 
