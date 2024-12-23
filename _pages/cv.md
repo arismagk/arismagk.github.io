@@ -10,10 +10,10 @@ redirect_from:
 
 Work experience
 ======
-* 2023 - now : SW Lead Engineer (SW sub-Function Architect)
+* 2023 - now : SW Architect
   * ASML B.V. Netherlands
 
-* 2023 - now: Freelance SW Engineer
+* 2023 - now: Business Analyst & Strategic Consultant
   * Technithon
 
 * 2019 - 2023: SW Engineer
@@ -21,6 +21,7 @@ Work experience
 
 Education
 ======
+* M.S. in Global Challenges and Analysis Systems, Hellenic Open University, Greece, 2024 - now (ongoing)
 * B.S. and M.S. in Electrical and Computer Engineering, University of Patras Greece, 2018
 * Ph.D in Combinatorial Optimization and Optimal Experimental Design, University of Patras Greece, 2024 (expected)
   
